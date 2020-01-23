@@ -1,1 +1,3 @@
 Test file.
+
+scl enable rh-python36 bash
